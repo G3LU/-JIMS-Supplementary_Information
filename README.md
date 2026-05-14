@@ -1,0 +1,1 @@
+Online Resource 1. Supplementary implementation details for the proposed CAD-grounded inspection-planning framework, including the CAD perception schema, semantic face-labeling rules, prompt interpretation schema, CAD-tool configuration, measurement-point and viewpoint generation details, and CAD-level synthetic defect-generation models.
